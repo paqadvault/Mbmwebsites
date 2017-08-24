@@ -54,87 +54,42 @@
 	
 	<div id="fh5co-page">
 	<?php include "_/header.php"; ?>
+	<?php include "_/carousel.php"; ?>
 	
 
-	<aside id="fh5co-hero" class="js-fullheight">
-		<div class="flexslider js-fullheight">
-			<ul class="slides">
-		   	<li>
-		   	<img class="img-responsive" src="images/banner/apc_banner.jpg" alt="">
-		   	</li>
-		   	<li>
-		   	<img class="img-responsive" src="images/banner/apc2_banner.jpg" alt="">
-		   	</li>
-			<li>
-			<img class="img-responsive" src="images/banner/HP_banner.jpg" alt="">
-		   		
-		   	</li>
-			
-			<img class="img-responsive" src="images/banner/hompage.jpg" alt="">
-		   		<div class="container">
-		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
-		   				<div class="slider-text-inner">
-		   					<h2>Great Payment Plan Available</h2>
-		   					<p><a href="Services.html" class="btn btn-primary btn-lg">Now</a></p>
-		   				</div>
-		   			</div>
-		   		</div>
-		   	</li>
-			<li style="background-image: url(images/banner/laptop_banner.jpg);">
-		   		<div class="container">
-		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
-		   				<div class="slider-text-inner">
-		   					<h2></h2>
-		   					<p><a href="Services.html" class="btn btn-primary btn-lg">Get In touch</a></p>
-		   				</div>
-		   			</div>
-		   		</div>
-		   	</li>
-		   	<li style="background-image: url(images/banner/apc_banner.jpg);">
-		   		<div class="container">
-		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
-		   				<div class="slider-text-inner">
-		   					<h2>We Give you Absolute Best Service</h2>
-		   					<p><a href="services.html" class="btn btn-primary btn-lg">Get started</a></p>
-		   				</div>
-		   			</div>
-		   		</div>
-		   	</li>
-		  	</ul>
-	  	</div>
-	</aside>
+	
 
 	<div id="fh5co-why-us" class="animate-box">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-7 col-md-offset-3 text-center fh5co-heading">
-					<h2>Our Core Values</h2>
-					<p>We create optimum investment merit with an intention of serving our customer with total dedication while maintaining the highest standard of excellence. </p>
+					<h2>Our Services</h2>
+					<p>BM provides a wide range of hardware product of different brands these include</p>
 
 				</div>
 				<div class="col-md-3 text-center item-block">
-					<span class="icon"><img src="images/11.jpg" alt="Fijb Photos" class="img-responsive"></span>
-					<h3>Fine tune Desires</h3>
+					<span class="icon"><img src="images/icon/hardware.png" alt="Fijb Photos" class="img-responsive"></span>
+					<h3>Hardware</h3>
 					<p> </p>
-					<p><a href="Services.html" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
+					<p><a href="hardware.php" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
 				<div class="col-md-3 text-center item-block">
-					<span class="icon"><img src="images/31.jpg" alt="Fijb Photos" class="img-responsive"></span>
-					<h3>Integrity</h3>
+					<span class="icon"><img src="images/icon/software.png" alt="Fijb Photos" class="img-responsive"></span>
+					<h3>Software</h3>
 					<p> </p>
-					<p><a href="Services.html" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
+					<p><a href="software.php" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
 			
 				<div class="col-md-3 text-center item-block">
-					<span class="icon"><img src="images/33.jpg" alt="Fijb Photos" class="img-responsive"></span>
-					<h3>Job Responsibility</h3>
+					<span class="icon"><img src="images/icon/accessories.png" alt="Fijb Photos" class="img-responsive"></span>
+					<h3>Accessories</h3>
 					<p> </p>
-					<p><a href="Services.html" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
+					<p><a href="accessories.php" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
 				
 				<div class="col-md-3 text-center item-block">
-					<span class="icon"><img src="images/32.jpg" alt="" class="img-responsive"></span>
-					<h3>Best Result</h3>
+					<span class="icon"><img src="images/icon/aftersales.png" alt="" class="img-responsive"></span>
+					<h3>After Sales Services</h3>
 					<p></p>
 					<p><a href="Services.html" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
@@ -145,11 +100,11 @@
 	
 	<div class="fh5co-section-with-image">
 		
-		<img src="images/image_1.jpg" alt="" class="img-responsive">
+		<img src="images/product/lenovo-product.jpg" alt="" class="img-responsive">
 		<div class="fh5co-box animate-box">
-			<h2>Our Shops</h2>
-			<p>Fijb Real Estate Nig. Ltd. is an entirely new face of development innovation and construction of a modern day outlook, contributing to the globe at large.</p>
-			<p><a href="services.html" class="btn btn-primary btn-outline with-arrow">Read more<i class="icon-arrow-right"></i></a></p>
+			<h2>Shop Now</h2>
+			<p>We have the Most good Online and delivery network on your door stepa if you shop with us </p>
+			<p><a href="services.html" class="btn btn-primary btn-outline with-arrow">Shop Now<i class="icon-arrow-right"></i></a></p>
 		</div>
 		
 	</div>
@@ -189,7 +144,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Awesome Gallary</h2>
+					<h2>Our products Here </h2>
 					<p>Fijb Real Estate Nigeria Limited is the one of his kinds. A well-organized Construction Company. We look at investing globally to contribute to the development of the country at large.  Check out our Gallery </p>
 				</div>
 			</div>
@@ -197,10 +152,10 @@
 
 		
 		<div class="col-1">
-			<a href="product.html" class="item-grid one" style="background-image: url(images/image_4.jpg)">
+			<a href="product.html" class="item-grid one" style="background-image: url(images/product/Product_hp.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/9.jpg" alt="Fijb Photos" class="img-responsive"></span>
+						<span class="icon"><img src="images/product/Product_hp.jpg" alt="Fijb Photos" class="img-responsive"></span>
 						<h3 class="title">Modern Market</h3>
 						<h5 class="category">Morogbo International Market</h5>
 					</div>
@@ -208,10 +163,10 @@
 			</a>
 			</div>
 			<div class="col-1 reverse">
-			<a href="product.html" class="item-grid three" style="background-image: url(images/image_3.jpg)">
+			<a href="product.html" class="item-grid three" style="background-image: url(images/product/product_monitor.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/18.jpg" alt="Fijb Photos" class="img-responsive"></span>
+						<span class="icon"><img src="images/product/product_monitor.jpg" alt="hp Laptop" class="img-responsive"></span>
 						<h3 class="title">Modern Market</h3>
 						<h5 class="category">Ijanikin international Modern Market </h5>
 					</div>

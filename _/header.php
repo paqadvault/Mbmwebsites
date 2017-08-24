@@ -1,7 +1,7 @@
 <header id="fh5co-header" role="banner">
 		<div class="container">
 			<div class="header-inner">
-				<h1><a href="index.html">FIJB<span> REAL ESTATE</span></a></h1>
+				<h1><a href="index.html">Logo<span> Logo</span></a></h1>
 				<nav class="navbar" role="navigation">
 						<ul class="nav navbar-nav">
 							<li role="presentation"><a href="index.php">Home</a></li>
@@ -19,7 +19,7 @@
 							<li role="presentation"><a href="ourclient.php">Our Client</a></li>
 							<li role="presentation"><a href="ourpartner.php">Our Partner</a></li>
 							<li role="presentation"><a href="contact.php">Contact</a></li>
-							<li class="btn btn-default"><a href="">Shop with us now</a></li>
+							<li class="btn btn-default btn-outline"><a href="">Shop with us now</a></li>
 						</ul>
 				</nav>
 			</div>

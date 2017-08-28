@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -7,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>FIJB Real Estate</title>
+	<title>MBM | AfterSales</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Fijb Estate Agent " />
 	<meta name="keywords" content="Estate, shope sale in nigeria, Agabra Shop sales, fijb, fijb real estate agent, sales of properties in nigeria " />
@@ -56,11 +55,10 @@
 	<div id="fh5co-page">
 	<?php include "_/header.php"; ?>
 	
-
-	<aside id="fh5co-hero" clsas="js-fullheight">
+<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(images/slide_10.jpg);">
+		   	<li style="background-image: url(images/banner/banner_1.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
@@ -73,12 +71,34 @@
 		   	</li>
 		  	</ul>
 	  	</div>
-	</aside>
+	</aside> 					
+					<div class="container">
+							<div class="spacer20">
+								<div class="col-md-9 text-left" style="text-align:justify">	
+					
+					<H3>After Sales Services/On-Site Support Services</H3>
+						<p class="lead">With a wide range of technical presence in IT Industry, MBM handles after sales supports for our reputable clients such as</p>
+					
+						<ul>
+						<li>System Repairs/Maintenance and Services - Service Level Agreement (Quarterly or Yearly)</li>
+						 <li>System Integration & Installation</li>
+						 <li>Data Center Installation and Management</li>
+						 <li>Onsite Support Services via our partners like HPE now DXC, Hemmersbach and other vendors</li>
+						 <li>Server / Network Support Services </li> 
+					
+					 
+					
+						</ul>
 
-		<div> content </div>
-		
-	
-	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
+								</div>		
+ 								<?php include "_/side_bar.php"; ?>			
+
+								
+								
+							</div>
+						</div>
+
+	<div class="fh5co-cta" style="background-image: url(images/product/HP_elietbook.png);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">

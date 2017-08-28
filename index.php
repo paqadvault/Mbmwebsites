@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>FIJB Real Estate</title>
+	<title>MBM-home</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Fijb Estate Agent " />
 	<meta name="keywords" content="Estate, shope sale in nigeria, Agabra Shop sales, fijb, fijb real estate agent, sales of properties in nigeria " />
@@ -100,7 +100,7 @@
 	
 	<div class="fh5co-section-with-image">
 		
-		<img src="images/product/lenovo-product.jpg" alt="" class="img-responsive">
+		<img src="images/product/image_1.jpg" alt="" class="img-responsive">
 		<div class="fh5co-box animate-box">
 			<h2>Shop Now</h2>
 			<p>We have the Most good Online and delivery network on your door stepa if you shop with us </p>
@@ -109,39 +109,11 @@
 		
 	</div>
 
-	<div id="fh5co-testimonial" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Happy Clients</h2>
-					<p>These are what our grateful client have to say about our services well done delivery.</p>
-				</div>
-				<div class="col-md-4 text-center item-block">
-					<blockquote>
-						<p>&ldquo; I will always want to patronize FIJB REAL ESTATE again and again over other construction  Firm. What stuns me is the quality of services delivery without no hidden charges &rdquo;</p>
-						<p><span class="fh5co-author"><cite>Mr Oluwaseto Tolulope</cite></span><i class="icon twitter-color icon-twitter pull-right"></i></p>
-
-					</blockquote>
-				</div>
-				<div class="col-md-4 text-center item-block">
-					<blockquote>
-						<p>&ldquo; FIJB REAL ESTATE is good firm to deal with, dealing with them gives me a good night rest because they handles all my worries, they have proved it over and over again  &rdquo;</p>
-						<p><span class="fh5co-author"><cite>Mr Uche Samuel </cite></span><i class="icon googleplus-color icon-google-plus pull-right"></i></p>
-					</blockquote>
-				</div>
-				<div class="col-md-4 text-center item-block">
-						
-					<blockquote>
-						<p>&ldquo; Ultra-Modern Market makes me get in contact with FIJB REAL ESTATE, with the customer care reception which i have not experienced anywhere with other Real Estate Agency i will love to work with them more  &rdquo;</p>
-						<p><span class="fh5co-author"><cite>Mrs Abdulmajeed Idayat</cite></span><i class="icon facebook-color icon-facebook pull-right"></i></p>
-					</blockquote>
-				</div>
-			</div>
-		</div>
-	</div>
+ 
+ <?php include "_/logoslider.php"; ?>
 
 	<div id="fh5co-grid-products" class="animate-box">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 					<h2>Our products Here </h2>
@@ -156,8 +128,8 @@
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/product/Product_hp.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Morogbo International Market</h5>
+						<h3 class="title">Laptop</h3>
+						<h5 class="category">HP Laptop</h5>
 					</div>
 				</div>
 			</a>
@@ -167,8 +139,8 @@
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/product/product_monitor.jpg" alt="hp Laptop" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Ijanikin international Modern Market </h5>
+						<h3 class="title">Desktop</h3>
+						<h5 class="category">Hp Desktop</h5>
 					</div>
 				</div>
 			</a>

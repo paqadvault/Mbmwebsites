@@ -212,4 +212,7 @@
 	});
 
 
+    $('#LogoSlide').carousel({
+        interval: 3000
+    })
 }());

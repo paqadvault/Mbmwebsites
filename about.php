@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>FIJB Real Estate</title>
+	<title>MBM | About Us</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Fijb Estate Agent " />
 	<meta name="keywords" content="Estate, shope sale in nigeria, Agabra Shop sales, fijb, fijb real estate agent, sales of properties in nigeria " />
@@ -60,7 +60,7 @@
 	<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(images/slide_10.jpg);">
+		   	<li style="background-image: url(images/banner/banner_1.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
@@ -75,50 +75,33 @@
 	  	</div>
 	</aside>
 
-	<div class="fh5co-about animate-box">
-		<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-			<h2>About Us</h2>
-			<p>Fijb Real Estate Nigeria Limited is the one of his kinds. A well-organized Construction Company. We look at investing globally to contribute to the development of the country at large. </p>
-		</div>	
-		<div class="container">
-			<div class="col-md-12">
-				<figure>
-					<img src="images/image_1.jpg" alt="Real Estate Consultancy Template" class="img-responsive">
-				</figure>
-			</div>
-			<div class="col-md-8 col-md-push-4">
-				<h2>Furthermore</h2>
-				<p>We have well trained consultant, legal practitioners and experienced engineers who carry out their duties diligently as such every project handle with immense intelligence to achieve an outstanding result.</p>
-				<p>A firm with the face of modern development,innovation and construction of today desires in modern market, real estate and property management at large but not forgetting a good and flexible payment plans on all our product and services.</p>
-				<p>Our Clientele include corporate bodies, private individuals, co-operative societies, companies and government parastatals. Fijb Real Estates Nig. Ltd. is one of the largest independent estate management and construction companies in the marketplace, providing the most sophisticated project for all types of investors.</p>
-				<p>We at Fijb Real Estate Nig. Ltd. handle all services with a very high level of professionalism, as client satisfaction is our topmost priority and at no extra or hidden charges.</p>
-				<p><a href="contact.html" class="btn btn-primary btn-outline with-arrow">Contact Us Now For More Information <i class="icon-arrow-right"></i></a></p>
+	<div class="container">
+							<div class="spacer20">
+								<div class="col-md-9 text-left" style="text-align:justify">
+									<h1>About us</h1>
+									<p>Modern Business Machine Nig Limited ("MBM") is an information technology company, focused on providing optimal and contemporary solution in Nigeria.</p>
+									<p>The company's focus is the supply of computer system, office equipment , and accessories as well as providing maintenance and after sales services.</p>
+																				
+									<p>The company was incorporated in 1987, and has grown from humble beginning to a renowned ICT solution provider in Nigeria today, with nation-wide presence , and a branch network that includes the cities of Lagos , Abuja, port Harcourt, Jos and Warri.</p>
+									
+									<p>MBM is one of the oldest Business Panthers to INTERNATIONAL BUSINESS MACHINES ("IBM") in Nigeria. the company became a business partner to IBM in 1990 and has since gained notoriety as one of the major source for IBM and services in Nigeria.</p>
+									<p>MMBM has also been in a long standing business with COMPAQ corporation since 1993 before it metamorphosed into HEWLETT PARKARD ("HP"), with whom the company's business partner Status Continued.</p>
 
-			</div>
-		</div>
-	</div>
+									<p>MBM is a CISCO vendor; and utilizes Cisco expertise and network solution product and technologies to help meet client's changing needs.</p>
+									<p>In addition, the company is an authorized vendor of NETAPP storage devices, and business panther to LEXMARK and ESPON for all their ranges of product in Nigeria.</p>
+									<p>MBM is also a Samsung Business Partner in NIgeria. We Deal in all Samsung Laptops and tablets.</p>
+									<p>As a Business Panther to these major leading Manufactures, MBM receive tremendous support from these organization In terms of equipment supplies and technical support. company is committed to maintaining the excellence and perfection for which these manufacturers are known. MBM is always Prepared to take the extra Step to give its client maximum satisfaction.</p>
 
-	<div class="fh5co-services">
-		<div class="container">
-			<div class="row item-block">
-				<div class="col-md-6 animate-box">
-					<span class="icon"><img src="images/34.jpg" alt="Fijb Photos" class="img-responsive"></span>
-					<h3>Our Vision</h3>
-					<p>Our Vision is to provide the best in real estate management for both low and high income earners</p>
-				</div>
-				
-				<div class="col-md-6 animate-box reverse">
-					<span class="icon"><img src="images/32.jpg" alt="Fijb Photos" class="img-responsive"></span>
-					<h3>Our Mission</h3>
-					<p> Our MIssion is to attain Leadership by providing affordable and modern construction across Nigeria</p>
-					
-				</div>
-				
-			</div>
-		</div>
-	</div>
+								</div>
+								
+ 								<?php include "_/side_bar.php"; ?>			
 
-	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
+								
+								
+							</div>
+						</div>
+
+	<div class="fh5co-cta" style="background-image: url(images/product/HP_elietbook.png);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">

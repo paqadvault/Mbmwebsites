@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -7,12 +6,13 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>FIJB Real Estate</title>
+	<title>MBM | Our Client</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Fijb Estate Agent " />
 	<meta name="keywords" content="Estate, shope sale in nigeria, Agabra Shop sales, fijb, fijb real estate agent, sales of properties in nigeria " />
 	<meta name="author" content="PaqadVault Designs" />
 
+  
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -49,38 +49,21 @@
 	<![endif]-->
 
 	</head>
-	<body>
+	<body id="bodyourclient">
 	
 	
 	<div id="fh5co-page">
-	<header id="fh5co-header" role="banner">
-		<div class="container">
-			<div class="header-inner">
-				<h1><a href="index.html">FIJB<span> REAL ESTATE</span></a></h1>
-				<nav role="navigation">
-					<ul>
-						<li class="active"><a href="product.html">Gallary</a></li>
-						<li><a href="services.html">Services</a></li>
-						<li><a href="pricing.html">Pricing</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="contact.html">Contact</a></li>
-						<li class="cta"><a href="About.html">Get started</a></li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-	</header>
+	<?php include "_/header.php"; ?>
 	
-
-	<aside id="fh5co-hero" clsas="js-fullheight">
+<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(images/slide_3.jpg);">
+		   	<li style="background-image: url(images/banner/banner_1.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Our Awesome Gallary</h2>
+		   					<h2>Who We Are</h2>
 		   					
 		   				</div>
 		   			</div>
@@ -88,180 +71,202 @@
 		   	</li>
 		  	</ul>
 	  	</div>
-	</aside>
-
-	
-
-	<div id="fh5co-grid-products" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>See our products</h2>
-					<p>Fijb Real Estate Nigeria Limited is the one of his kinds. A well-organized Construction Company. We look at investing globally to contribute to the development of the country at large.  </p>
-				</div>
-			</div>
-		</div>
-
-		
-		<div class="col-1">
-			<a href="#" class="item-grid one" style="background-image: url(images/image_4.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Morogbo International Market</h5>
-					</div>
-				</div>
-			</a>
-			<a href="#" class="item-grid three" style="background-image: url(images/image_3.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Morogbo International Market</h5>
-					</div>
-				</div>
-			</a>
-		</div>
-		<div class="col-2">
-			<a href="#" class="item-grid two" style="background-image: url(images/image_2.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Ijanikin international Modern Market</h5>
-					</div>
-				</div>
-			</a>
-		</div>
+	</aside> 					
+					<div class="container">
+							<div class="spacer20">
+								<div class="col-md-9 text-left" style="text-align:justify">	
 
 
-		<div class="col-1 reverse">
-			<a href="#" class="item-grid one" style="background-image: url(images/image_4a.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Morogbo International Market</h5>
-					</div>
-				</div>
-			</a>
-			<a href="#" class="item-grid three" style="background-image: url(images/image_3a.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Morogbo International Market</h5>
-					</div>
-				</div>
-			</a>
-		</div>
-		<div class="col-2 reverse">
-			<a href="#" class="item-grid two" style="background-image: url(images/image_2a.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Ijanikin international Modern Market</h5>
-					</div>
-				</div>
-			</a>
-		</div>
-		
-		<div class="col-2 reverse">
-			<a href="#" class="item-grid two" style="background-image: url(images/image_2b.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Ijanikin international Modern Market</h5>
-					</div>
-				</div>
-			</a>
-		</div>
-		<div class="col-1 reverse">
-			<a href="#" class="item-grid one" style="background-image: url(images/image_4b.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Morogbo International Market</h5>
-					</div>
-				</div>
-			</a>
-			<a href="#" class="item-grid three" style="background-image: url(images/image_3b.jpg)">
-				<div class="v-align">
-					<div class="v-align-middle">
-						<span class="icon"><img src="images/14.jpg" alt="Fijb Photos" class="img-responsive"></span>
-						<h3 class="title">Modern Market</h3>
-						<h5 class="category">Morogbo International Market</h5>
-					</div>
-				</div>
-			</a>
-		</div>
-		
-	</div>
-	
+								</div>		
+ 							<h1 class="Menutitle">Our Client</h1>
+		<div class="flip-menu">
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="a">
+				<label for="a" class="flip-item">
+					<figure class="front"><img src="images/logo/Cbn_logo.jpg" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/Cbn_logo.jpg" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="b">
+				<label for="b" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/guinness_logo.png" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/guinness_logo.png" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p</p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="c">
+				<label for="c" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/chevron_logo.jpg" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/chevron_logo.jpg" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="d">
+				<label for="d" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/ABB_logo.jpg" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/ABB_logo.jpg" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="e">
+				<label for="e" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/Afrinvest_logo.png" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/Afrinvest_logo.png" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="f">
+				<label for="f" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/bat_logo.png" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/bat_logo.png" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="g">
+				<label for="g" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/british_airways_logo.gif" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/british_airways_logo.gif" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<hr>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="h">
+				<label for="h" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/p_and_g_logo.jpg" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/p_and_g_logo.jpg" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="j">
+				<label for="j" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/novartis_logo.png" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/novartis_logo.png" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="k">
+				<label for="k" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/pfizer_logo_logo.gif" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/pfizer_logo_logo.gif" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="l">
+				<label for="l" class="flip-item">
+				    <figure class="front"><img src="images/logo_tn/sahara_logo.jpg" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/sahara_logo.jpg" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+			<section class="flip-item-wrap">
+				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
+				<input type="checkbox" class="flipper" id="m">
+				<label for="m" class="flip-item">
+				    <figure class="front"><img src="images/logo/Sanofi_logo.png" alt=""></img></figure>
+				    <figure class="back">
+				    	<img src="images/logo/Sanofi_logo.png" alt=""></img>
+				    	<div class="flip-item-desc">
+				    		<h4 class="flip-item-title">Our Client</h4>
+				    		<p></p>
+				    	</div>
+				    </figure>
+				</label>
+			</section>
+		</div>			
 
-	<div id="fh5co-blog" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Latest <em>from</em> our Market</h2>
-					<p>More Photo Coming Soon</p>
-				</div>
-			</div>
-		</div>
-		
+								
+								
+							</div>
+						</div>
 
-	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
+	<div class="fh5co-cta" style="background-image: url(images/product/HP_elietbook.png);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">
-				<h3>We bring more market to you</h3>
-				<p><a href="contact.html" class="btn btn-primary btn-outline with-arrow">Get started now!<i class="icon-arrow-right"></i></a></p>
+				<h3>We can tell You more About us</h3>
+				<p><a href="contact.html" class="btn btn-primary btn-outline with-arrow">Contact us now! <i class="icon-arrow-right"></i></a></p>
 			</div>
 		</div>
 	</div>
-
 	
-	<footer id="fh5co-footer" role="contentinfo">
-	
-		<div class="container">
-			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>About Us</h3>
-				<p>Fijb Real Estate Nigeria Limited is the one of his kinds. A well-organized Construction Company. We look at investing globally to contribute to the development of the country at large.  </p>
-				<p><a href="contact.html" class="btn btn-primary btn-outline with-arrow btn-sm">Contact Us <i class="icon-arrow-right"></i></a></p>
-			</div>
-			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Our Services</h3>
-				<ul class="float">
-					<li><a href="services.html">Estate management and general construction</a></li>
-					<li><a href="services.html">Redesign & Development of Existing market</a></li>
-					<li><a href="services.html">Real Estate Consultancy</a></li>
-					<li><a href="services.html">Land Acquisition and Development </a></li>
-				</ul>
-				
-
-			</div>
-
-			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Follow Us</h3>
-				<ul class="fh5co-social">
-					<li><a href="https://twitter.com/FijbRealEstate"><i class="icon-twitter"></i></a></li>
-					<li><a href="https://www.facebook.com/fijbrealestate"><i class="icon-facebook"></i></a></li>
-					<li><a href="#"><i class="icon-google-plus"></i></a></li>
-					<li><a href="https://www.instagram.com/fijbrealestate/?hl=en"><i class="icon-instagram"></i></a></li>
-				</ul>
-			</div>
-			
-			
-			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2017. All Rights Reserved. <span>Designed with <i class="icon-heart"></i> by <a href="http://devsam.tech/" target="_blank">PaqadVault Designs</a> </span></p>	
-			</div>
-			
-		</div>
-	</footer>
+	<?php include "_/footer.php"; ?>
 	</div>
 	
 	
@@ -273,12 +278,8 @@
 	<script src="js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
 	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Easy PieChart -->
-	<script src="js/jquery.easypiechart.min.js"></script>
 	<!-- Flexslider -->
 	<script src="js/jquery.flexslider-min.js"></script>
-	<!-- Stellar -->
-	<script src="js/jquery.stellar.min.js"></script>
 	
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>

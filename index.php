@@ -102,8 +102,8 @@
 		
 		<img src="images/product/image_1.jpg" alt="" class="img-responsive">
 		<div class="fh5co-box animate-box">
-			<h2>Shop Now</h2>
-			<p>We have the Most good Online and delivery network on your door stepa if you shop with us </p>
+			<h2>Always with You</h2>
+				<p>Whether you are moving offices, replacing an existing IT products or infrastructure or expanding, we work with you to supply all your IT related hardware and software including desktops, laptops and server solutions, software, digital telephony and network switching and routing. </p>
 			<p><a href="services.html" class="btn btn-primary btn-outline with-arrow">Shop Now<i class="icon-arrow-right"></i></a></p>
 		</div>
 		
@@ -116,8 +116,9 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Our products Here </h2>
-					<p>Fijb Real Estate Nigeria Limited is the one of his kinds. A well-organized Construction Company. We look at investing globally to contribute to the development of the country at large.  Check out our Gallery </p>
+					<h2>Right Support Team </h2>
+					<p>
+					MBM has a team of qualified and experienced Hardware & System Engineers who are committed and dedicated to carrying out major Computer installations, maintenance and repairs. Our Engineers have acquired both relevant experiences and technical skills, most of which has come directly from major equipment manufacturers and those we represents in Nigeria. </p>
 				</div>
 			</div>
 		</div>

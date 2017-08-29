@@ -79,178 +79,19 @@
 
 								</div>		
  							<h1 class="Menutitle">Our Client</h1>
-		<div class="flip-menu">
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="a">
-				<label for="a" class="flip-item">
-					<figure class="front"><img src="images/logo/Cbn_logo.jpg" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/Cbn_logo.jpg" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="b">
-				<label for="b" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/guinness_logo.png" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/guinness_logo.png" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p</p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="c">
-				<label for="c" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/chevron_logo.jpg" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/chevron_logo.jpg" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="d">
-				<label for="d" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/ABB_logo.jpg" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/ABB_logo.jpg" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="e">
-				<label for="e" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/Afrinvest_logo.png" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/Afrinvest_logo.png" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="f">
-				<label for="f" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/bat_logo.png" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/bat_logo.png" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="g">
-				<label for="g" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/british_airways_logo.gif" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/british_airways_logo.gif" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<hr>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="h">
-				<label for="h" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/p_and_g_logo.jpg" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/p_and_g_logo.jpg" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="j">
-				<label for="j" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/novartis_logo.png" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/novartis_logo.png" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="k">
-				<label for="k" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/pfizer_logo_logo.gif" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/pfizer_logo_logo.gif" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="l">
-				<label for="l" class="flip-item">
-				    <figure class="front"><img src="images/logo_tn/sahara_logo.jpg" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/sahara_logo.jpg" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-			<section class="flip-item-wrap">
-				<img class="fake-image" src="http://lorempixel.com/500/500/food/1" alt=""><!-- this image will add height to parent element -->
-				<input type="checkbox" class="flipper" id="m">
-				<label for="m" class="flip-item">
-				    <figure class="front"><img src="images/logo/Sanofi_logo.png" alt=""></img></figure>
-				    <figure class="back">
-				    	<img src="images/logo/Sanofi_logo.png" alt=""></img>
-				    	<div class="flip-item-desc">
-				    		<h4 class="flip-item-title">Our Client</h4>
-				    		<p></p>
-				    	</div>
-				    </figure>
-				</label>
-			</section>
-		</div>			
-
+							<div class="container " id="rotary" >
+					        <div id="rotating">
+								<figure class="thumbnail"><img src="images/logo/ABB_logo.jpg" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/Accenture_logo.png" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/Aiteo_logo.png" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/apc_logo.jpg" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/bat_logo.png" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/brand_logo.gif" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/Cbn_logo.jpg" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/cocacola_logo.jpg" alt=""></figure>
+								<figure class="thumbnail"><img src="images/logo/deutsche_logo.png" alt=""></figure>
+							</div>
+						</div>
 								
 								
 							</div>

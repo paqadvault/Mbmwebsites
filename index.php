@@ -38,7 +38,7 @@
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<!-- Flexslider  -->
 	<link rel="stylesheet" href="css/flexslider.css">
-	<!-- Theme style  -->
+	<!-- My CSS  -->
 	<link rel="stylesheet" href="css/style.css">
 
 	<!-- Modernizr JS -->

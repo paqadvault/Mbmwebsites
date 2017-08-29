@@ -1608,4 +1608,26 @@ img.serviceicon {
   filter: grayscale(100%);
   opacity: .5;
 }
+
+/*
+===============navigation and logo============*/
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+ padding: 0;
+ width: auto;
+}
+.navbar-header .navbar-brand {
+  height: 100px;
+}
+.navbar-fixed-top {height:85px;}
+.navbar {min-height:85px;}
+.navbar-nav {padding:15px 0;}
+
+
+/*=====================navcolor=====================*/
+
+
 /*# sourceMappingURL=style.css.map */

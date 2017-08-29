@@ -10,12 +10,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
+      <a class="navbar-brand" href="index.php"> <img src="images/logo/mbmlogo.gif" alt="" ></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav navbar-right">
         <li class="active"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
         <li><a href=""></a></li>
 		<li><a href="about.php">About</a></li>

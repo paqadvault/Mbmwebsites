@@ -72,67 +72,70 @@
 		  	</ul>
 	  	</div>
 	</aside> 					
-					<div class="container">
-							<div class="spacer20">
-								<div class="fh5co-contact animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3">
-					<h3>Contact Info.</h3>
-					<ul class="contact-info">
-						<li><i class="icon-map"></i>Klm 3, Lasu-Isheri Express Road, Hotel Bustop, Isheri Igando</li>
-						<li><i class="icon-phone"></i>+234 1-4530741, <br> +234 1-4530740</li>
-						<li><i class="icon-envelope"></i><a href="mailto:enquiries@fijbrealestate.com">sales@mbmnig.com</a></li>
-						<li><i class="icon-globe"></i><a href="http://www.mbmnig.com">www.mbmnig.com</a></li>
-					</ul>
-				</div>
-				<form class="" action="mail.php" method="POST" name="contact">
-				<div class="col-md-8 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 					
-						<div class="col-md-6">
-							<div class="form-group">
-								<input class="form-control" placeholder="Name" name="name" type="text">
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="form-group">
-								<input class="form-control" placeholder="Email" name="email" type="email">
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="form-group">
-								<input class="form-control" placeholder="Mobile Number" name="phone" type="tel">
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<textarea name="message" class="form-control" id="" cols="30" rows="7" placeholder="Message"></textarea>
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<input value="Send Message" class="btn btn-primary" name="submit" type="submit">
-							</div>
-						</div>
-						
-				</div>
-				</form>
-			</div>
-		</div>	
-	</div>
-								
-								
-							</div>
-						</div>
 
-	<div class="fh5co-cta" style="background-image: url(images/product/HP_elietbook.png);">
+
+<div class="container">
+			<div class="spacer20">
+				<div class="fh5co-contact animate-box">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-3">
+								<h3>Contact Info.</h3>
+								<ul class="contact-info">
+									<li><i class="icon-map"></i>Gerrard Road, Ikoyi, Lagos</li>
+									<li><i class="icon-phone"></i>+234 1-4530741, <br> +234 1-4530740</li>
+									<li><i class="icon-envelope"></i><a href="mailto:enquiries@fijbrealestate.com">sales@mbmnig.com</a></li>
+									<li><i class="icon-globe"></i><a href="http://www.mbmnig.com">www.mbmnig.com</a></li>
+								</ul>
+							</div>
+							<form class="" action="mail.php" method="POST" name="contact">
+							<div class="col-md-8 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
+								
+									<div class="col-md-6">
+										<div class="form-group">
+											<input class="form-control" placeholder="Name" name="name" type="text">
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="form-group">
+											<input class="form-control" placeholder="Email" name="email" type="email">
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="form-group">
+											<input class="form-control" placeholder="Mobile Number" name="phone" type="tel">
+										</div>
+									</div>
+									<div class="col-md-12">
+										<div class="form-group">
+											<textarea name="message" class="form-control" id="" cols="30" rows="7" placeholder="Message"></textarea>
+										</div>
+									</div>
+									<div class="col-md-12">
+										<div class="form-group">
+											<input value="Send Message" class="btn btn-primary" name="submit" type="submit">
+										</div>
+									</div>
+									
+							</div>
+							</form>
+						</div>
+					</div>	
+				</div>
+								
+		
+	</div>
+
+
+</div>
+<div class="map-responsive">
+		   		   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.7569824991415!2d3.437806913140183!3d6.454639712655988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf4c200f5151f%3A0x5e44bf444477e532!2sModern+Business+Machines!5e0!3m2!1sen!2sng!4v1504172488324" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div			
+
+	<div class="fh5co-cta" >
 		<div class="overlay"></div>
-		<div class="container">
-			<div class="col-md-12 text-center animate-box">
-				<h3>We can tell You more About us</h3>
-				<p><a href="contact.html" class="btn btn-primary btn-outline with-arrow">Contact us now! <i class="icon-arrow-right"></i></a></p>
-			</div>
-		</div>
+		
 	</div>
 	
 	<?php include "_/footer.php"; ?>

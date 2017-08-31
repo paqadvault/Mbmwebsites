@@ -58,12 +58,12 @@
 <aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(images/banner/banner_1.jpg);">
+		   	<li style="background-image: url(images/banner/ourclient.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Who We Are</h2>
+		   					<h2></h2>
 		   					
 		   				</div>
 		   			</div>
@@ -78,20 +78,73 @@
 
 
 								</div>		
- 							<h1 class="Menutitle">Our Client</h1>
-							<div class="container " id="rotary" >
-					        <div id="rotating">
-								<figure class="thumbnail"><img src="images/logo/ABB_logo.jpg" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/Accenture_logo.png" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/Aiteo_logo.png" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/apc_logo.jpg" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/bat_logo.png" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/brand_logo.gif" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/Cbn_logo.jpg" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/cocacola_logo.jpg" alt=""></figure>
-								<figure class="thumbnail"><img src="images/logo/deutsche_logo.png" alt=""></figure>
-							</div>
-						</div>
+ 							
+							 <div class="container">
+						        <div class="row">
+						        <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						            <h1 class="gallery-title">Our Clients</h1>
+						        </div>
+
+						        
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
+						                <img src="images/logo/ABB_logo.jpg" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter sprinkle">
+						                <img src="images/logo/Accenture_logo.png" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
+						                <img src="images/logo/Afrinvest_logo.png" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter irrigation">
+						                <img src="images/logo/Aiteo-logo.png" class="img-responsive">
+						            </div>
+								<div class="col-lg-12">
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter spray">
+						                <img src="images/logo/Netapp_logo.png" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter irrigation">
+						                <img src="images/logo/Cbn_logo.jpg" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter spray">
+						                <img src="images/logo/cocacola_logo.jpg" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter irrigation">
+						                <img src="images/logo/Deloitte_logo.jpg" class="img-responsive">
+						            </div>
+								</div>
+								<div class="col-lg-12">
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter irrigation">
+						                <img src="images/logo/Epson_logo.png" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
+						                <img src="images/logo/ericsson_logo.png" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter spray">
+						                <img src="images/logo/ibm_logo.png" class="img-responsive">
+						            </div>
+
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter sprinkle">
+						                <img src="images/logo/interswitch_logo.jpg" class="img-responsive">
+						            </div>
+						         </div>
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter sprinkle">
+						                <img src="images/logo/mainone_logo.png" class="img-responsive">
+						            </div>
+						            <div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter sprinkle">
+						                <img src="images/logo/large-citibank_logo.jpg" class="img-responsive">
+						            </div>
+						        </div>
+						    </div>
+						</section>
+
 								
 								
 							</div>
